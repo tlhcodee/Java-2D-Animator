@@ -1,7 +1,9 @@
 # Java-2D-Animator
 A basic 2d animation thing i made
 
-Picture
+<p align="center">
+  Picture
+</p>
 <p align="left">
   ![image](https://github.com/tlhcodee/Java-2D-Animator/assets/136689385/45af06a7-468a-4923-835a-923c51c058d7)
 </p>
